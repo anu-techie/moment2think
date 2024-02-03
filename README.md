@@ -1,2 +1,3 @@
 # moment2think
-#we will take a little moment to motivate 
+# spend a little moment remarkable
+# aim of this app is to help people to refresh and getting peace in just a moment with realization.
